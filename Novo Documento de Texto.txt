@@ -1,7 +1,0 @@
-
-git init
-git status
-git add .
-git commit -m "Mensagem sobre a modificação"
-git branch -M main
-git push
